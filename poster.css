@@ -1,0 +1,67 @@
+
+
+   .maindiv{
+    justify-content: space-around;
+    display: flex;
+    padding: 20%;
+    margin-left: 20px;
+    background-image: url(tt.png);
+   }
+
+   .firstdiv{
+    border-top-left-radius:18% ;
+    border-top-right-radius:18% ;
+    flex-basis: 100px;
+    border: solid;
+    background-color: aliceblue;
+    border-radius: 35px;
+    
+
+   }
+
+
+   .seconddiv{
+    flex-basis: 100px;
+    border: solid;
+    background-color:white;
+    border-radius: 35px;
+    }
+
+   .thirddiv{
+    flex-basis: 100px;
+    border: solid;
+    border-radius:  20px; ;
+    background-color:white;
+    padding: ;
+
+   }
+.smalldiv1{
+display: flex;
+background-color: crimson;
+border-radius:  0 0 27px 27px
+
+}
+.smalldiv2{
+display: flex;
+background-color: hotpink;
+border-radius: 0 0 27px 27px;
+
+}
+.smalldiv3{
+display: flex;
+background-color: forestgreen;
+border-radius:0 0 18.1px 18.1px;
+}
+.vision{
+    border: solid 0.5px;
+    flex-basis: 50%;
+}
+.vision1{
+    flex-basis: 50%;
+    border: solid 0.5px;
+}
+.vision2{
+    border: solid 0.5px;
+    flex-basis: 50%;
+
+}
